@@ -1,5 +1,5 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
 
 @theme {
   --font-sans: 'Outfit', sans-serif;
@@ -10,8 +10,6 @@
 body {
   margin: 0;
   font-family: 'Outfit', sans-serif;
-}
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f3f4f6;
